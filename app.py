@@ -320,7 +320,7 @@ def plot_performance(backtest_df):
         mode='lines',
         name='Cumulative PnL',
         line=dict(color='#4CAF50', width=3)
-    )
+    ))
     
     # Win/Loss markers
     wins = backtest_df[backtest_df['Outcome'] == 'Win']
