@@ -5,5 +5,3 @@ numpy
 scikit-learn
 openpyxl
 matplotlib
-pandas_ta
-setuptools
