@@ -5,5 +5,5 @@ numpy
 scikit-learn
 openpyxl
 matplotlib
-ta
+pandas_ta
 setuptools
